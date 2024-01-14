@@ -99,14 +99,13 @@ We will extend the feature of nearby hospital search in which user can find more
 
 **Home Page**
 
-[![Screenshot 1](./screenshots/homepage/Screenshot 2024-01-14 085332.png)](./screenshots/homepage/Screenshot 2024-01-14 085332.png)
+![Screenshot 1](screenshots/homepage/Screenshot 2024-01-14 085332.png)
 
-[![Screenshot 1](./screenshots/homepage/Screenshot 2024-01-14 085412.png)](./screenshots/homepage/Screenshot 2024-01-14 085412.png)
+![Screenshot 1](screenshots/homepage/Screenshot 2024-01-14 085412.png)
 
-[![Screenshot 1](./screenshots/homepage/Screenshot 2024-01-14 085359.png)](./screenshots/homepage/Screenshot 2024-01-14 085359.png)
+![Screenshot 1](screenshots/homepage/Screenshot 2024-01-14 085359.png)
 
-[![Screenshot 1](./screenshots/homepage/Screenshot 2024-01-14 085347.png)](./screenshots/homepage/Screenshot 2024-01-14 085347.png)
-
+![Screenshot 1](screenshots/homepage/Screenshot 2024-01-14 085347.png)
 
 **Profile Page**
 
