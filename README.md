@@ -95,19 +95,27 @@ We will extend the feature of nearby hospital search in which user can find more
   Will extend the  feature that will provide disease preventions,Patient testimonial videos,how to stay healthy,etc
 
 
-##Screenshots
+## Screenshots
 
 **Home Page**
 
-![Screenshot 1](https://res.cloudinary.com/dzurqbpi6/image/upload/v1705206489/screenshots/homepage/Screenshot_2024-01-14_085412_mkhszp.png)
-
-![Screenshot 2](https://res.cloudinary.com/dzurqbpi6/image/upload/v1705206489/screenshots/homepage/Screenshot_2024-01-14_085347_mbkurj.png)
-
-![Screenshot 3](https://res.cloudinary.com/dzurqbpi6/image/upload/v1705206489/screenshots/homepage/Screenshot_2024-01-14_085359_hzlvow.png)
 
 ![Screenshot 4](https://res.cloudinary.com/dzurqbpi6/image/upload/v1705206496/screenshots/homepage/Screenshot_2024-01-14_085332_ft6jns.png)
 
+
+![Screenshot 3](https://res.cloudinary.com/dzurqbpi6/image/upload/v1705206489/screenshots/homepage/Screenshot_2024-01-14_085359_hzlvow.png)
+
+![Screenshot 1](https://res.cloudinary.com/dzurqbpi6/image/upload/v1705206489/screenshots/homepage/Screenshot_2024-01-14_085412_mkhszp.png)
+
+
+![Screenshot 2](https://res.cloudinary.com/dzurqbpi6/image/upload/v1705206489/screenshots/homepage/Screenshot_2024-01-14_085347_mbkurj.png)
+
+
+
+
+
 **Profile Page**
+
 
 [![Screenshot 1](https://res.cloudinary.com/dzurqbpi6/image/upload/v1705206490/screenshots/profile/Screenshot_2024-01-14_085507_czxfbt.png)](https://res.cloudinary.com/dzurqbpi6/image/upload/v1705206490/screenshots/profile/Screenshot_2024-01-14_085507_czxfbt.png)
 
