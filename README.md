@@ -110,12 +110,14 @@ We will extend the feature of nearby hospital search in which user can find more
 
 ![Screenshot 2](https://res.cloudinary.com/dzurqbpi6/image/upload/v1705206489/screenshots/homepage/Screenshot_2024-01-14_085347_mbkurj.png)
 
-
-
+___
 
 
 **Profile Page**
 
+
+
+[![Screenshot 6](https://res.cloudinary.com/dzurqbpi6/image/upload/v1705206489/screenshots/profile/Screenshot_2024-01-14_085424_fjw3n3.png)](https://res.cloudinary.com/dzurqbpi6/image/upload/v1705206489/screenshots/profile/Screenshot_2024-01-14_085424_fjw3n3.png)
 
 [![Screenshot 1](https://res.cloudinary.com/dzurqbpi6/image/upload/v1705206490/screenshots/profile/Screenshot_2024-01-14_085507_czxfbt.png)](https://res.cloudinary.com/dzurqbpi6/image/upload/v1705206490/screenshots/profile/Screenshot_2024-01-14_085507_czxfbt.png)
 
@@ -127,6 +129,6 @@ We will extend the feature of nearby hospital search in which user can find more
 
 [![Screenshot 5](https://res.cloudinary.com/dzurqbpi6/image/upload/v1705206491/screenshots/profile/Screenshot_2024-01-14_085446_tkcdxm.png)](https://res.cloudinary.com/dzurqbpi6/image/upload/v1705206491/screenshots/profile/Screenshot_2024-01-14_085446_tkcdxm.png)
 
-[![Screenshot 6](https://res.cloudinary.com/dzurqbpi6/image/upload/v1705206489/screenshots/profile/Screenshot_2024-01-14_085424_fjw3n3.png)](https://res.cloudinary.com/dzurqbpi6/image/upload/v1705206489/screenshots/profile/Screenshot_2024-01-14_085424_fjw3n3.png)
+
 
 
