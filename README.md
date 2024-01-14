@@ -79,7 +79,7 @@ using this feature,users registered on application can plan a trip and together 
 
 ## Future Goal for this Project
 
-# "I'm delighted with the progress of this app, and its current iteration is a testament to the power of frontend technology. Despite time constraints, I've successfully implemented features that enhance user experience and prioritize well-being. Looking ahead, I have exciting plans to leverage backend technologies and the latest advancements like AI and machine learning to make this app even more powerful and beneficial for users.
+###"I'm delighted with the progress of this app, and its current iteration is a testament to the power of frontend technology. Despite time constraints, I've successfully implemented features that enhance user experience and prioritize well-being. Looking ahead, I have exciting plans to leverage backend technologies and the latest advancements like AI and machine learning to make this app even more powerful and beneficial for users.
 
 
 1️⃣ **Use of Ai and Machine Learning**
@@ -93,5 +93,33 @@ We will extend the feature of nearby hospital search in which user can find more
 3️⃣ **Video Tutorials**
 
   Will extend the  feature that will provide disease preventions,Patient testimonial videos,how to stay healthy,etc
+
+
+##Screenshots
+
+**Home Page**
+
+[![Screenshot 1](./screenshots/homepage/Screenshot 2024-01-14 085332.png)](./screenshots/homepage/Screenshot 2024-01-14 085332.png)
+
+[![Screenshot 1](./screenshots/homepage/Screenshot 2024-01-14 085412.png)](./screenshots/homepage/Screenshot 2024-01-14 085412.png)
+
+[![Screenshot 1](./screenshots/homepage/Screenshot 2024-01-14 085359.png)](./screenshots/homepage/Screenshot 2024-01-14 085359.png)
+
+[![Screenshot 1](./screenshots/homepage/Screenshot 2024-01-14 085347.png)](./screenshots/homepage/Screenshot 2024-01-14 085347.png)
+
+
+**Profile Page**
+
+[![Screenshot 1](./screenshots/profile/Screenshot 2024-01-14 085522.png)](./screenshots/profile/Screenshot 2024-01-14 085522.png)
+
+[![Screenshot 1](./screenshots/profile/Screenshot 2024-01-14 085507.png)](./screenshots/profile/Screenshot 2024-01-14 085507.png)
+
+[![Screenshot 1](./screenshots/profile/Screenshot 2024-01-14 085456.png)](./screenshots/profile/Screenshot 2024-01-14 085456.png)
+
+[![Screenshot 1](./screenshots/profile/Screenshot 2024-01-14 085446.png)](./screenshots/profile/Screenshot 2024-01-14 085446.png)
+
+[![Screenshot 1](./screenshots/profile/Screenshot 2024-01-14 085435.png)](./screenshots/profile/Screenshot 2024-01-14 085435.png)
+
+[![Screenshot 1](./screenshots/profile/Screenshot 2024-01-14 085424.png)](./screenshots/profile/Screenshot 2024-01-14 085424.png)
 
 
