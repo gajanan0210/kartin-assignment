@@ -99,26 +99,26 @@ We will extend the feature of nearby hospital search in which user can find more
 
 **Home Page**
 
-![Screenshot 1](screenshots/homepage/Screenshot 2024-01-14 085332.png)
+![Screenshot 1](https://res.cloudinary.com/dzurqbpi6/image/upload/v1705206489/screenshots/homepage/Screenshot_2024-01-14_085412_mkhszp.png)
 
-![Screenshot 1](screenshots/homepage/Screenshot 2024-01-14 085412.png)
+![Screenshot 2](https://res.cloudinary.com/dzurqbpi6/image/upload/v1705206489/screenshots/homepage/Screenshot_2024-01-14_085347_mbkurj.png)
 
-![Screenshot 1](screenshots/homepage/Screenshot 2024-01-14 085359.png)
+![Screenshot 3](https://res.cloudinary.com/dzurqbpi6/image/upload/v1705206489/screenshots/homepage/Screenshot_2024-01-14_085359_hzlvow.png)
 
-![Screenshot 1](screenshots/homepage/Screenshot 2024-01-14 085347.png)
+![Screenshot 4](https://res.cloudinary.com/dzurqbpi6/image/upload/v1705206496/screenshots/homepage/Screenshot_2024-01-14_085332_ft6jns.png)
 
 **Profile Page**
 
-[![Screenshot 1](./screenshots/profile/Screenshot 2024-01-14 085522.png)](./screenshots/profile/Screenshot 2024-01-14 085522.png)
+[![Screenshot 1](https://res.cloudinary.com/dzurqbpi6/image/upload/v1705206490/screenshots/profile/Screenshot_2024-01-14_085507_czxfbt.png)](https://res.cloudinary.com/dzurqbpi6/image/upload/v1705206490/screenshots/profile/Screenshot_2024-01-14_085507_czxfbt.png)
 
-[![Screenshot 1](./screenshots/profile/Screenshot 2024-01-14 085507.png)](./screenshots/profile/Screenshot 2024-01-14 085507.png)
+[![Screenshot 2](https://res.cloudinary.com/dzurqbpi6/image/upload/v1705206490/screenshots/profile/Screenshot_2024-01-14_085522_o0jwwg.png)](https://res.cloudinary.com/dzurqbpi6/image/upload/v1705206490/screenshots/profile/Screenshot_2024-01-14_085522_o0jwwg.png)
 
-[![Screenshot 1](./screenshots/profile/Screenshot 2024-01-14 085456.png)](./screenshots/profile/Screenshot 2024-01-14 085456.png)
+[![Screenshot 3](https://res.cloudinary.com/dzurqbpi6/image/upload/v1705206490/screenshots/profile/Screenshot_2024-01-14_085456_gahada.png)](https://res.cloudinary.com/dzurqbpi6/image/upload/v1705206490/screenshots/profile/Screenshot_2024-01-14_085456_gahada.png)
 
-[![Screenshot 1](./screenshots/profile/Screenshot 2024-01-14 085446.png)](./screenshots/profile/Screenshot 2024-01-14 085446.png)
+[![Screenshot 4](https://res.cloudinary.com/dzurqbpi6/image/upload/v1705206491/screenshots/profile/Screenshot_2024-01-14_085435_dix3h0.png)](https://res.cloudinary.com/dzurqbpi6/image/upload/v1705206491/screenshots/profile/Screenshot_2024-01-14_085435_dix3h0.png)
 
-[![Screenshot 1](./screenshots/profile/Screenshot 2024-01-14 085435.png)](./screenshots/profile/Screenshot 2024-01-14 085435.png)
+[![Screenshot 5](https://res.cloudinary.com/dzurqbpi6/image/upload/v1705206491/screenshots/profile/Screenshot_2024-01-14_085446_tkcdxm.png)](https://res.cloudinary.com/dzurqbpi6/image/upload/v1705206491/screenshots/profile/Screenshot_2024-01-14_085446_tkcdxm.png)
 
-[![Screenshot 1](./screenshots/profile/Screenshot 2024-01-14 085424.png)](./screenshots/profile/Screenshot 2024-01-14 085424.png)
+[![Screenshot 6](https://res.cloudinary.com/dzurqbpi6/image/upload/v1705206489/screenshots/profile/Screenshot_2024-01-14_085424_fjw3n3.png)](https://res.cloudinary.com/dzurqbpi6/image/upload/v1705206489/screenshots/profile/Screenshot_2024-01-14_085424_fjw3n3.png)
 
 
